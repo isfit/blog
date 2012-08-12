@@ -2,4 +2,4 @@
 blog
 ====
 
-ISFiT Theme Blog
+ISFiT Theme Blog, oh yeah!
