@@ -5,6 +5,7 @@
     <title>{{ page.title }}</title>
     {% if page.description %}<meta name="description" content="{{ page.description }}">{% endif %}
     <meta name="author" content="{{ site.author.name }}">
+    <link href='http://fonts.googleapis.com/css?family=Source+Sans+Pro|Oxygen' rel='stylesheet' type='text/css'>
 
     <!-- Le HTML5 shim, for IE6-8 support of HTML elements -->
     <!--[if lt IE 9]>
@@ -26,6 +27,7 @@
 
   <body>
 
+    <!--
     <div class="navbar">
       <div class="navbar-inner">
         <div class="container">
@@ -38,21 +40,25 @@
         </div>
       </div>
     </div>
-
+  -->
+  <div id="content-wrapper">
     <div class="container">
 
       <div class="content">
         {{ content }}
       </div>
+    </div>
 
-      <footer>
-        <p>&copy; {{ site.author.name }} 2012 
-          with help from <a href="http://jekyllbootstrap.com" target="_blank" title="The Definitive Jekyll Blogging Framework">Jekyll Bootstrap</a>
-          and <a href="http://twitter.github.com/bootstrap/" target="_blank">Twitter Bootstrap</a>
-        </p>
-      </footer>
+      
 
     </div> <!-- /container -->
+    <footer id="bottom-footer">
+        <a href="/"><img alt="Isfitliten" class="footer-logo" src="http://i.imgur.com/zobJT.png"></a>
+        <p>
+        Editor in Chief: Synne Mari Pedersen, editor[at]isfit.org. <br>
+        All written material and the ISFiT logo is copyrighted the ISFiT Foundation © 2012.
+        </p>
+      </footer>
 
     {% include JB/analytics %}
   </body>

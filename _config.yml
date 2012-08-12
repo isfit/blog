@@ -1,6 +1,6 @@
 # This is the default format. 
 # For more see: https://github.com/mojombo/jekyll/wiki/Permalinks
-permalink: /:categories/:year/:month/:day/:title 
+permalink: /:year/:title 
 
 exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md"]
 auto: true
@@ -17,6 +17,19 @@ author :
   github : username
   twitter : username
   feedburner : feedname
+authors :
+  eliseell :
+    name : Elise Tengs
+    email : eliseell
+    twitter : elisetengs
+    position : Prosjektleder Tema
+    gravatar : qwerty
+  trondkbr :
+    name : Trond Kjetil Bremnes
+    email : trondkbr
+    twitter : kartoffelmos
+    position : midlertidig
+    gravatar : qwerty
 
 # The production_url is only used when full-domain names are needed
 # such as sitemap.txt 
@@ -124,3 +137,6 @@ JB :
   #   ./_includes/custom/[HELPER]
   # where [HELPER] is the name of the helper you are overriding.
   
+
+
+
