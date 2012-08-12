@@ -1,0 +1,4 @@
+blog
+====
+
+ISFiT Theme Blog
