@@ -23,6 +23,9 @@ html, body {
   -webkit-box-shadow: 0 1px 2px rgba(0,0,0,.15);
      -moz-box-shadow: 0 1px 2px rgba(0,0,0,.15);
           box-shadow: 0 1px 2px rgba(0,0,0,.15);
+
+  border: 1px solid #ccc;
+  box-shadow: 0 0 8px #333;
 }
 
 /* Page header tweaks */
@@ -71,6 +74,13 @@ body {
 	padding-bottom: 5em;
 	border-bottom-right-radius: 7px;
 	border-bottom-left-radius: 7px;
+
+  	background-image: url(http://i.imgur.com/ks3EZ.png);
+  	background-image: url(http://i.imgur.com/Exr9C.png);
+  	background-image: url(http://i.imgur.com/tI1ri.png);
+  	background-image: url(http://i.imgur.com/wtGbY.gif);
+  	background-image: url(http://i.imgur.com/Lu0rz.png);
+  	background-image: url(http://i.imgur.com/GiNLC.gif);
 }
 
 article.post-body p {
@@ -86,20 +96,39 @@ article.post-body a:hover {
 	color: white;
 }
 
-article.author {
-	height: 140px;
+div.metadata {
+	height: 76px;
 	background: rgba(0,0,0,.1);
 	padding: 1em;
+	width: 30em;
+	margin: auto;
+	margin-top: 8em;
 }
 article.author img {
 	float:left;
 	height: 75px;
+	margin-right: 1em;
 }
 
+article.author {
+	width: 21em;
+	margin: auto;
+}
+
+
+article.post-body {
+	width: 42em;
+	margin: auto;
+}
 
 div.page-header {
 	width: 100%;
 	text-align: center;
+	background-image: url(http://i.imgur.com/tb74W.png);
+	background-image: url(http://i.imgur.com/RO3tc.png);
+	background-size: cover;
+	height: 48em;
+	position: relative;
 	/*padding-top: 7em;
 	padding-bottom: 7em;
 	background-image: url(http://i.imgur.com/mXuzj.png);
@@ -107,7 +136,25 @@ div.page-header {
 
 div.page-header h1 {
 	font-family: 'Oxygen';
-	font-size: 4em;
+	margin-top: 7em;
+	font-size: 5em;
+	color: white;
+	text-shadow: 0 -2px 0 #333;
+	text-align: right;
+}
+
+p.author {
+	width: 100%;
+	background: rgba(0,0,0,.7);
+	text-align: right;
+	padding-right: 2em;
+	box-sizing: border-box;
+	font-size: 1.5em;
+	line-height: 1.1em;
+}
+
+p.author, p.author a {
+	color: white;
 }
 
 
