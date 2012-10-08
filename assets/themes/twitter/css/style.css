@@ -1,6 +1,9 @@
 /* Override some defaults */
-html, body {
-  background-color: #eee;
+
+html {
+	height: 100%;
+	background-image: url(http://i.imgur.com/mU7FI.png);
+	background-attachment: fixed;
 }
 .navbar {
   margin-bottom: 0;
@@ -66,12 +69,10 @@ article.author {
 /* Custom themes */
 
 body {
-	background-image: url(http://i.imgur.com/mU7FI.png);
-	background-attachment: fixed;
-	height: 100%;
 	width: 100%;
 	padding: 0; margin: 0;
 	padding-bottom: 150px;
+	background-color: transparent; 
 }
 
 #bottom-footer {
@@ -96,6 +97,5 @@ body {
 	border-bottom-left-radius: 7px;
 
 }
-
 
 	
