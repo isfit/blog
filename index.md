@@ -7,7 +7,7 @@ title: Festivalblogg
 <nav>
   <ul>
     <li>
-      <a href="/2012/norge-fredsnasjon-og-vaapeneksportoer/">
+      <a href="2012/norge-fredsnasjon-og-vaapeneksportoer/">
         <article>
           <img height="220" width="220" src="http://i.imgur.com/FBxQo.png" alt="">
           <p>Jonathan Torstensen</p>
@@ -17,7 +17,7 @@ title: Festivalblogg
       </a>
     </li>
     <li>
-      <a href="/2012/hva-er-global-handel/">
+      <a href="2012/hva-er-global-handel/">
         <article>
           <img src="http://i.imgur.com/AyDvv.png" height="220" width="220" alt="">
           <p>Elise Tengs</p>
