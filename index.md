@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Festivalblogg
+title: Temablogg
 ---
 {% include JB/setup %}
 
