@@ -98,4 +98,11 @@ body {
 
 }
 
-	
+
+.comments {
+	width: 100%;
+	text-align: center;
+	margin-top: 2em;
+	background: #eee;
+	box-sizing: border-box;
+}	

@@ -5,7 +5,7 @@ title : Norway
 subtitle: A nation of peace and of weapons export
 ingress: 
 header : Post Archive
-comments: false
+comments: true
 authors: [jonators]
 lang: en
 ---

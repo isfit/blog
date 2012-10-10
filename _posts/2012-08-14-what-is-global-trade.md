@@ -4,7 +4,7 @@ title : What Is Global Trade?
 style: global-trade
 ingress: 
 header : Post Archive
-comments: false
+comments: true
 authors: [eliseell]
 lang: en
 ---

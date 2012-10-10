@@ -5,7 +5,7 @@ title : Norge
 subtitle: Fredsnasjon og våpeneksportør
 ingress: 
 header : Post Archive
-comments: false
+comments: true
 authors: [jonators]
 lang: no
 ---

@@ -4,7 +4,7 @@ title : Hva er global handel?
 style: global-trade
 ingress: 
 header : Post Archive
-comments: false
+comments: true
 authors: [eliseell]
 lang: no
 ---
