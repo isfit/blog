@@ -7,6 +7,7 @@ ingress:
 header : Post Archive
 comments: false
 authors: [jonators]
+lang: no
 ---
 
 Norge har siden tidlig på 90-tallet bygget et omdømme som internasjonal fredsskaper. Oslo-avtalen var historisk i at den banet vei for en to-statsløsning på Israel-Palestina konflikten. Norge viste hvordan en liten nasjon kunne initiere målrettede tiltak for fred der hvor større, multinasjonale [initiativer](http://www.sv.uio.no/mutr/publikasjoner/rapp2003/rapport64/index-3_2.html) mislyktes. I tiden etter Oslo-avtalen har Norge inntatt rollen som tilrettelegger for fred i en rekke internasjonale konflikter. I oktober i år er Oslo nok en gang et viktig møtepunkt når den colombianske regjeringen skal forhandle med [Farc-geriljaen](http://www.regjeringen.no/nb/dep/ud/pressesenter/pressemeldinger/2012/colombia_fredssamtaler_oslo.html?id=698363).

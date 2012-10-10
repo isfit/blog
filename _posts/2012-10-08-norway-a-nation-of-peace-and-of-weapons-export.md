@@ -7,6 +7,7 @@ ingress:
 header : Post Archive
 comments: false
 authors: [jonators]
+lang: en
 ---
 
 Norway has since the early 90s gained a reputation as an international creator of peace. The Oslo-accords became historic by making way for a two-state solution to the conflict between Israel and Palestine. Norway showed how a small nation could follow through peace creating initiatives, where larger multi-national attempts failed. During the time period following the Oslo-accords, Norway has assumed the role of peace facilitator in several international conflicts. In October this year, Oslo once again becomes an important meeting point when the Colombian government and the Farc-guerilla enter peace negotiations.
