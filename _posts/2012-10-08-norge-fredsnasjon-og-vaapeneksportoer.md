@@ -30,7 +30,7 @@ Human Rights Watch har betegnet den norske våpeneksportpolitikken som [«på vi
 ## Våpeneksport – den nye oljen?
 
 Statssekretær Roar Ingebrigtsen fra Forsvarsdepartementet uttalte etter et besøk på Vinghøg våpenfabrikk i 2011 at bedriften [«styrker troen på at Norge kan overleve også etter at oljen tar slutt»](http://www.aftenposten.no/nyheter/iriks/politikk/Mener-Norge-bor-satse-pa-vapen-nar-oljen-tar-slutt-5108647.html). Uttalelsen vekket avsky blant annet hos filmskaper Erling Borgen. I 2006 laget han dokumentaren «Et lite stykke Norge», som påstår at norske firmaer leverte utstyr til blant annet Guantanamo-basen på Cuba. Dokumentaren viste hvordan statlige bedrifter var tungt involvert i utviklingen
-av Hellfire-raketten – [beviselig brukt til sivile drap under Irak-krigen](http:/ /www.nrk.no/nyheter/verden/1.7355609).
+av Hellfire-raketten – [beviselig brukt til sivile drap under Irak-krigen](http://www.nrk.no/nyheter/verden/1.7355609).
 
 NRK hadde i utgangspunktet vært med på å finansiere dokumentaren, men nektet å vise den av «kildemessige og redaksjonelle hensyn». [Flere stilte spørsmål ved denne avgjørelsen](http://www.rorg.no/Artikler/1236.html), ettersom NRK selv fant flere av påstandene solide nok til reportasjebruk. På sin side ønsket ingen av de norske våpenaktørene å bidra til dokumentaren, deriblant Nammo og Kongsberggruppen. Selskapene står for størsteparten av norsk våpeneksport og aksjemajoritetene eies i dag av den norske stat.
 
