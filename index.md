@@ -68,7 +68,7 @@ title: Temablogg
 
   nav article {
     width: 250px;
-
+    text-align: left;
   }
 
   nav article p {
