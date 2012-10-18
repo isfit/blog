@@ -4,7 +4,7 @@ div.title h1 {
 	margin: 0;
 	color: white;
 
-	font-family: 'freight-sans-pro';
+	font-family: 'freight-sans-pro', sans-serif;
 }
 
 div.title {
@@ -16,10 +16,10 @@ div.title {
 }
 
 h1.post-title {
-	font-size: 33pt;
+	font-size: 45pt;
 	font-weight: 400;
-	margin-bottom: -.3em !important;
-	margin-left: .1em !important;
+	margin-bottom: -.4em !important;
+	margin-left: .03em !important;
 
 	font-style: normal;
 }
