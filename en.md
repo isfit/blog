@@ -7,6 +7,15 @@ title: Theme blog
 <nav>
   <ul>
     <li>
+      <a href="2012/the-european-dream/">
+        <article>
+          <img height="220" width="220" src="http://i.imgur.com/yUHFy.png" alt="">
+          <p>Daniel Stølsbotn</p>
+          <h1>The European dream</h1>
+        </article>
+      </a>
+    </li>
+    <li>
       <a href="2012/norway-a-nation-of-peace-and-of-weapons-export/">
         <article>
           <img height="220" width="220" src="http://i.imgur.com/FBxQo.png" alt="">

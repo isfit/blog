@@ -7,6 +7,15 @@ title: Temablogg
 <nav>
   <ul>
     <li>
+      <a href="2012/den-europeiske-drommen/">
+        <article>
+          <img height="220" width="220" src="http://i.imgur.com/yUHFy.png" alt="">
+          <p>Daniel Stølsbotn</p>
+          <h1>Den europeiske drømmen</h1>
+        </article>
+      </a>
+    </li>
+    <li>
       <a href="2012/norge-fredsnasjon-og-vaapeneksportoer/">
         <article>
           <img height="220" width="220" src="http://i.imgur.com/FBxQo.png" alt="">
