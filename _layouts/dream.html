@@ -1,0 +1,36 @@
+---
+layout: default
+style: dream
+---
+{% include JB/setup %}
+
+
+
+<div class="page-header">
+	<div class="title">
+  		<h1 class="post-title">{{ page.title }}</h1>
+  		<h1 class="post-subtitle">{{ page.subtitle }}</h1>
+	</div>
+</div>
+
+<div class="row">
+  <div class="span12">
+    <article class="post-body">
+      {{ content }}
+
+    <p style="text-align: right;"><em>{{ page.date | date_to_long_string }}</em></p>
+    </article>
+  {% include metadata.html %}
+
+  <div class="comments well">
+    {% include JB/comments %}
+  </div>
+
+  </div>
+
+</div>
+
+<script>document.write('<script src="http://' + (location.host || 'localhost').split(':')[0] + ':35729/livereload.js?snipver=1"></' + 'script>')</script>
+
+<script type="text/javascript" src="//use.typekit.net/bbb8sml.js"></script>
+<script type="text/javascript">try{Typekit.load();}catch(e){}</script>
