@@ -51,7 +51,7 @@ Dette høres vel og bra ut, men likevel finnes det kontrovers rundt Fairtrade. K
 
 <figure id="hipster-ill">
 	<img src="http://i.imgur.com/rugOn.jpg" alt="tea illustration">
-	<figcaption>
+	<figcaption class="tk-gooddog-new">
 		<p>Er det egentlig noen forskjell på Fairtrade te og vanlig te?</p>
 		<p>Hvor etisk er teen din?</p>
 	</figcaption>
