@@ -2,7 +2,7 @@
 layout: fairtrade
 style: fairtrade
 title : Fairtrade
-subtitle: Verd pengene?
+subtitle: Verdt pengene?
 ingress: 
 header : Post Archive
 comments: true

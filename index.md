@@ -7,11 +7,11 @@ title: Temablogg
 <nav>
   <ul>
     <li>
-      <a href="2012/fairtrade-verd-pengene/">
+      <a href="2012/fairtrade-verdt-pengene/">
         <article>
           <img height="220" width="220" src="assets/thumbs/Fairtrade.png" alt="">
           <p>Alexandra Lyngstad</p>
-          <h1>Fairtrade – Verd pengene?</h1>
+          <h1>Fairtrade – Verdt pengene?</h1>
         </article>
       </a>
     </li>
