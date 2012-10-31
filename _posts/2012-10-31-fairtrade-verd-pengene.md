@@ -48,7 +48,7 @@ religion, kjønn, seksuell legning eller annet skal ikke finne sted.</a>»
 Dette høres vel og bra ut, men likevel finnes det kontrovers rundt Fairtrade. Kritikken gjelder blant annet <a href="http://fairtrade.no/media/62276/utdyping_mat_og_helse_ungdomsskole.pdf">minimumsprisen</a> på råvarer satt av Fairtrade International. Denne sikrer bøndene en anstendig pris for arbeidet og varene. Men en vares verdi reguleres av markedet, og enkelte råvarer som for eksempel kaffe, kan ha grove prissvingninger. I 2001 var markedsprisen på kaffe <a href="http://www.fairtrade.org.uk/includes/documents/cm_docs/2010/a/arabica_pricechart_89_10_aug10.pdf">under halvparten</a> av den Fairtrade-garanterte minimumsprisen. Altså fikk Fairtrade-plantasjer og kooperativer mye mer penger for kaffen enn resten av verdens kaffeprodusenter. Dette skaper en ubalanse i markedet og virker <a href="http://money.howstuffworks.com/fair-trade2.htm">urettferdig</a> for andre kaffebønder.
 </p>
 
-
+<a href="http://www.ethicalconsumer.org/buyersguides/drink/tea.aspx">
 <figure id="hipster-ill">
 	<img src="http://i.imgur.com/rugOn.jpg" alt="tea illustration">
 	<figcaption class="tk-gooddog-new">
@@ -56,6 +56,7 @@ Dette høres vel og bra ut, men likevel finnes det kontrovers rundt Fairtrade. K
 		<p class="second-line">Hvor etisk er teen din?</p>
 	</figcaption>
 </figure>
+</a>
 
 
 <p class="pre">
