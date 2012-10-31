@@ -16,8 +16,8 @@ Du som sitter på Dragvoll, med termokoppen din med Fairtrade-
 merket på teposen tydelig plassert over kanten. Du signaliserer til 
 omverden at du er en ansvarlig verdensborger med humanitært 
 engasjement. Men hva ligger egentlig bak merkelappen Fairtrade, 
-foruten at det gir ro i sjelen hos forbrukeren? Er det 
-egentlig noe forskjell på Fairtrade-te og vanlig te?
+foruten at det gir ro i sjelen hos forbrukeren? Er det egentlig noe 
+forskjell på Fairtrade-te og vanlig te?
 </p>
 </section>
 
@@ -74,7 +74,7 @@ logisk produsert. Fairtrade-bananer har høyere pris fordi små-
 bønder og kooperativene deres ikke har like kosteffektive 
 transportmetoder som deres internasjonale konkurrenter. 
 Merk at <a href="http://www.fairtradeusa.org/what-is-fair-trade/faq">Fairtrade-produkter</a> ikke nødvendigvis er dyrere enn 
-alternativene.8 Hvis kaffe har høy etterspørsel i en periode 
+alternativene. Hvis kaffe har høy etterspørsel i en periode 
 slik at prisen i markedet er over Fairtrade-minimumet, kan 
 Fairtrade-kaffen gjerne ha samme pris som andre kaffe-
 merker.
