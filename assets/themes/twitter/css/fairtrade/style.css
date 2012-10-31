@@ -129,4 +129,12 @@ h1.post-subtitle::before {
 }
 #hipster-ill p {
 	margin: 0;
+	font-family: inherit;
+}
+
+#hipster-ill p.first-line {
+	color: #000;
+}
+#hipster-ill p.second-line {
+	color: #656565;
 }
