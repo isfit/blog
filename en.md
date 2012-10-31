@@ -7,6 +7,15 @@ title: Theme blog
 <nav>
   <ul>
     <li>
+      <a href="2012/fairtrade-worth-what-you-pay/">
+        <article>
+          <img height="220" width="220" src="assets/thumbs/Fairtrade.png" alt="">
+          <p>Alexandra Lyngstad</p>
+          <h1>Fairtrade – Worth what you pay?</h1>
+        </article>
+      </a>
+    </li>
+    <li>
       <a href="2012/the-european-dream/">
         <article>
           <img height="220" width="220" src="http://i.imgur.com/yUHFy.png" alt="">
