@@ -1,0 +1,132 @@
+@font-face {
+    font-family: 'webfontregular';
+    src: url('hobobt-webfont.eot');
+    src: url('hobobt-webfont.eot?#iefix') format('embedded-opentype'),
+         url('hobobt-webfont.woff') format('woff'),
+         url('hobobt-webfont.ttf') format('truetype'),
+         url('hobobt-webfont.svg#webfontregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+#content-wrapper {
+	background: url(img/bg.png);
+}
+
+.container {
+	color: #656565;
+}
+
+.content {
+	background: url(img/artikkel_bg.png);
+}
+
+section.ingress {
+	font-weight: bold;
+}
+
+
+a {
+	color: #000;
+	border-bottom: 1px dotted #000;
+}
+
+a:hover {
+	border-bottom: 1px solid #999;
+	color: #999;
+	text-decoration: none;
+}
+
+.page-header {
+	background: transparent;
+	border-bottom: none;
+	text-align: center;
+	margin-bottom: 3em;
+}
+
+article.post-body {
+	margin: 0 10em;
+	position: relative;
+}
+
+article.post-body p {
+	font-size: 1.1em;
+	line-height: 1.3em;
+}
+
+p.pre {
+	white-space: pre-wrap;
+	word-break: break-all;
+	word-wrap: break-word;
+}
+
+h1.post-title {
+	font-family: 'webfontregular';
+	text-transform: uppercase;
+	color: #f4a859;
+	font-size: 12em;
+
+	text-shadow: 5px 5px 0 #ee8a41, 10px 10px 0 #e45239, 15px 15px #e03b3d;
+	/*
+	1: f4a859
+	2: ee8a41
+	3: e45239
+	4: e03b3d
+	*/
+}
+
+h1.post-subtitle {
+	text-transform: uppercase;
+	font-style: italic;
+	font-weight: 100;
+	font-family: serif;
+	font-size: 2em;
+	position: relative;
+	z-index: 3;
+	width: 18em;
+	margin: auto;
+	margin-top: 1em;
+}
+h1.post-subtitle span {
+	background: url(img/artikkel_bg.png);
+	width: 9em;
+	display: block;
+	margin: auto;
+}
+
+h1.post-subtitle::before {
+	content: '';
+	border-bottom: 2px solid #333;
+	width: 100%;
+	position: absolute;
+	left: 0;
+	top: 12px;
+	z-index: -1;
+}
+
+#tea-ill {
+	position: absolute;
+	right: -10em;
+	top: 0;
+	width: 400px;
+}
+
+#hipster-ill {
+	position: absolute;
+	width: 300px;
+	-webkit-transform: rotate(15deg);
+	-o-transform: rotate(15deg);
+	-ms-transform: rotate(15deg);
+	-moz-transform: rotate(15deg);
+	transform: rotate(15deg);
+	right: -7em;
+}
+
+#hipster-ill figcaption {
+	margin-top: -5em;
+	padding: 0 1em;
+}
+#hipster-ill p {
+	margin: 0;
+}
