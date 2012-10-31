@@ -30,7 +30,7 @@ forskjell på Fairtrade-te og vanlig te?
 <img src="http://i.imgur.com/Fjitk.png" id="tea-ill" alt="tea illustration">
 
 <p class="pre">
-For å bli sertifisert som Fairtrade-partner må man bli godkjent av FLO 
+For å bli sertifisert som <a href="http://bit.ly/QOO5Bi">Fairtrade-partner</a> må man bli godkjent av FLO 
 (Fairtrade International), som stiller spesifikke krav til blant annet 
 arbeidsforhold, lønn og bærekraftighet. Man kan dessuten rapportere til 
 organisasjonen hvis man oppdager forhold hos Fairtrade-sertifiserte 
@@ -42,6 +42,7 @@ eller slavearbeid. I tillegg skal produksjonen av Fairtrade-
 produkter være miljøvennlig og helst økologisk. Sist, men ikke 
 minst: «<a href="http://fairtrade.no/om-fairtrade/slik-fungerer-fairtrade/fairtrade-standardene/">Diskriminering på grunnlag av politisk ståsted, etnisitet, 
 religion, kjønn, seksuell legning eller annet skal ikke finne sted.</a>»
+
 </p>
 
 <p>
