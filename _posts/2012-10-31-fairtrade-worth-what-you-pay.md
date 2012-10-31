@@ -6,7 +6,7 @@ subtitle: Worth what you pay?
 ingress: 
 header : Post Archive
 comments: true
-authors: [alexanly]
+authors: [alexanly, saramam]
 lang: en
 ---
 
@@ -14,8 +14,8 @@ lang: en
 <section class="ingress">
 <p class="pre">
 As you are sitting on campus with your thermo-cup with the Fairtrade 
-tea label clearly visible, you are signalizing to the world that you are a 
-responsible world citizen who is serious about your humanitarian 
+tea label clearly visible, you are signalizing to the world that you are 
+a responsible world citizen who is serious about your humanitarian 
 responsibility. But what does the Fairtrade-label actually entail, 
 other than giving the consumer a clear conscience? Is there really 
 any difference between Fairtrade tea and regular tea?

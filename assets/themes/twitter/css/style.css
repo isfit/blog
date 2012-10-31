@@ -45,14 +45,18 @@ html {
 
 
 
-div.metadata {
+div.metadata article.author {
 	height: 76px;
 	background: rgba(0,0,0,.1);
 	padding: 1em;
 	width: 30em;
-	margin: auto;
+	margin: .5em auto;
+}
+
+div.metadata {
 	margin-top: 8em;
 }
+
 article.author img {
 	float:left;
 	height: 75px;

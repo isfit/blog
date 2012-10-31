@@ -6,7 +6,7 @@ subtitle: Verd pengene?
 ingress: 
 header : Post Archive
 comments: true
-authors: [alexanly]
+authors: [alexanly, saramam]
 lang: no
 ---
 

@@ -1,7 +1,7 @@
 <div class="metadata">
 
-	<!-- AUTHORS -->
 	{% for a in page.authors %}
+  <!-- AUTHORS -->
 	<article class="author">
 		{% if site.authors[a].image %}<img src="{{  site.authors[a].image }}">{% endif %}
 		<h3>{{ site.authors[a].name }}</h3>
@@ -10,7 +10,7 @@
 	</article>
   	{% endfor %} 
 
-  	{{  }}
+    {{  }}
   <!-- <div style="float:right;">
     <h4>Published</h4>
     <div class="date"><span>{{ page.date | date_to_long_string }}</span></div>
