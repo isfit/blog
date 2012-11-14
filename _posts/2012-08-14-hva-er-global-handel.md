@@ -7,6 +7,7 @@ header : Post Archive
 comments: true
 authors: [eliseell]
 lang: 'no'
+n: norge-fredsnasjon-og-vaapeneksportoer
 ---
 
 Global handel er festivaltema for ISFiT 2013. Handel har for noen ført til økonomisk vekst og velstand, for andre til utnyttelse og fattigdom. Handel er en sektor med store sosiale og politiske utfordringer, men samtidig har den et stort potensiale til å skape en bedre fremtid for unge mennesker i verden. Nettopp derfor er global handel festivaltema for ISFiT 2013.

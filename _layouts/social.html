@@ -1,36 +1,52 @@
 ---
-layout: default
-style: dream
+layout: barebones
+style: social
 ---
 {% include JB/setup %}
 
+<div id="content-wrapper">
+<div id="background-image"></div>
+<div class="container">
+
+<div class="content">
 
 
 <div class="page-header">
 	<div class="title">
   		<h1 class="post-title">{{ page.title }}</h1>
-  		<h1 class="post-subtitle">{{ page.subtitle }}</h1>
 	</div>
+  <img src="{{ ASSET_PATH }}twitter/css/social/img/sko.png" width="632px" alt="">
 </div>
 
 <div class="row">
   <div class="span12">
     <article class="post-body">
+      <div class="ingress"><p>
+        
+        {{ page.ingress }}
+      </p>
+      </div>
+
       {{ content }}
 
     <p style="text-align: right;"><em>{{ page.date | date_to_long_string }}</em></p>
     </article>
   {% include metadata.html %}
+
   {% include widget/nav %}
-  
 
   <div class="comments well">
     {% include JB/comments %}
   </div>
 
+
   </div>
 
 </div>
 
-<script type="text/javascript" src="//use.typekit.net/bbb8sml.js"></script>
-<script type="text/javascript">try{Typekit.load();}catch(e){}</script>
+
+
+</div>
+</div>
+
+
