@@ -7,6 +7,15 @@ title: Theme blog
 <nav>
   <ul>
     <li>
+      <a href="2012/social-development-is-also-currency/">
+        <article>
+          <img height="220" width="220" src="assets/thumbs/social.jpg" alt="">
+          <p>Jonathan Torstensen</p>
+          <h1>Social development is also currency!</h1>
+        </article>
+      </a>
+    </li>
+    <li>
       <a href="2012/fairtrade-worth-what-you-pay/">
         <article>
           <img height="220" width="220" src="assets/thumbs/Fairtrade.png" alt="">

@@ -48,14 +48,6 @@ article.post-body {
 	padding: 0 8em;
 }
 
-article.post-body p+p {
-	text-indent: 2.5em;
-}
-
-article.post-body p {
-	padding: 0;
-	margin: 0;
-}
 
 article.post-body p, .ingress p {
 	font-size: 1.2em;

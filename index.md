@@ -7,6 +7,15 @@ title: Temablogg
 <nav>
   <ul>
     <li>
+      <a href="2012/sosial-forandring-er-ogsa-en-inntekt/">
+        <article>
+          <img height="220" width="220" src="assets/thumbs/social.jpg" alt="">
+          <p>Jonathan Torstensen</p>
+          <h1>Sosial forandring er også en inntekt!</h1>
+        </article>
+      </a>
+    </li>
+    <li>
       <a href="2012/fairtrade-verdt-pengene/">
         <article>
           <img height="220" width="220" src="assets/thumbs/Fairtrade.png" alt="">
