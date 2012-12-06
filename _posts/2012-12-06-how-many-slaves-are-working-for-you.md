@@ -6,7 +6,7 @@ ingress:
 header : Post Archive
 comments: true
 authors: [kajajuul]
-lang: 'en'
+lang: en
 alt: hvor-mange-slaver-jobber-for-deg
 p: how-many-slaves-are-working-for-you
 ---
