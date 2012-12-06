@@ -33,5 +33,5 @@ As consumers we have power. [Power](http://slaveryfootprint.org/about/#getapp) t
 My number is 32. This is an uncomfortable acknowledgement, and a number I wish to change. A life that needs to be supported by the labour of 32 slaves is not a life I wish to live.
 
 
-What is [your number?](http://slaveryfootprint.org/)
+[What is your number?](http://slaveryfootprint.org/)
 
