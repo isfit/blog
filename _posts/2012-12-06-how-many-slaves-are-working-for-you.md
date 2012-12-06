@@ -20,6 +20,12 @@ According to the organization [Free the Slaves](https://www.freetheslaves.net/SS
 ##Why is slavery allowed to exist? 
 It is no longer true that slavery is allowed to exist because of ignorance. In 2000, the [Palermo Protocol](link: http://hvorhenderdet.nupi.no/Fakta/Palermo-protokollen-HHD06-08) was founded through a UN initiative to prevent, fight and penalize human trafficking. Despite a small but steady increase in the number of convictions worldwide, [62 countries had not yet succeeded in achieving a single conviction](http://iipdigital.usembassy.gov/st/english/texttrans/2011/06/20110627161432su0.9213787.html#axzz2Cx9b8GNf) by the international code of law in 2011. This is not because human trafficking and slavery do not exist there. Perpetrators are thus allowed to continue their illegal activities.
 
+<div class="faktaboks">
+<h1>UN definition of human trafficking</h1>
+<p>«A person that either through violence, threats, exploitation of a vulnerable situation or through other improper conduct use someone for prostitution (or other sexual behaviour), forced labour, war service, or removal of that persons organs»</p>
+<p><a href="http://hvorhenderdet.nupi.no/Fakta/Palermo-protokollen-HHD06-08">Source</a></p>
+</div>
+
 Slavery is about profits. Slaves are cheaper than the raw materials they are set to refine. Today, a slave can be bought for about 90 dollars (http://www.freetheslaves.net/Document.Doc?id=37), or 500 NOK.  Human trafficking has become such a large industry that there is no point in investing in the slaves. If a slave becomes sick or revolts, it is cheaper to [kill them or let them die and buy a new one.](https://www.freetheslaves.net/SSLPage.aspx?pid=301) In the same way that we use and dispose of clothes from H&M (http://www.vg.no/nyheter/utenriks/artikkel.php?artid=10055241), humans are used and thrown away.
 
 As consumers we have power. [Power](http://slaveryfootprint.org/about/#getapp) to set demands of enterprises and politicians. The world can exist without slavery. Despite slavery being extensive in many industries there are actors in every branch that refrain from using it. [Slavery Footprint](http://slaveryfootprint.org/) has made a simple web-based survey making it possible to calculate the number of slaves hidden in the chain of delivery behind the products you own. In order to abolish forced labour it is important for us as consumers to be conscious of our role in the chain of delivery. When you buy a product, you are also purchasing its history.  

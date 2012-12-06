@@ -21,6 +21,12 @@ Ifølge organisasjonen Free the Slaves(https://www.freetheslaves.net/SSLPage.asp
 Det er ikke lenger slik at uvitenhet er årsaken til at slaveri ikke fjernes fra verden. I 2000 ble [Palermoprotokollen](link: http://hvorhenderdet.nupi.no/Fakta/Palermo-protokollen-HHD06-08) nedsatt i regi av FN for å forebygge, bekjempe og straffe menneskehandel.
 Til tross for en jevn men liten økning i antall domfellelser på verdensbasis, hadde 62 FN medlemsland enda ikke lyktes med å dømme noen [etter lovverket](http://iipdigital.usembassy.gov/st/english/texttrans/2011/06/20110627161432su0.9213787.html#axzz2Cx9b8GNf) i 2011. Det er ikke fordi menneskehandel og slaveri ikke forekommer her.  Bakmenn får fritt spillerom til å fortsette sin virksomhet. 
 
+<div class="faktaboks">
+<h1>FNs definisjon av menneskehandel</h1>
+<p>«en person som enten ved hjelp av vold, trusler, misbruk av sårbar situasjon eller annen utilbørlig adferd utnytter noen til prostitusjon (eller andre seksuelle formål), tvangsarbeid, krigstjeneste, eller fjerning av vedkommendes organer»</p>
+<p><a href="http://hvorhenderdet.nupi.no/Fakta/Palermo-protokollen-HHD06-08">Kilde</a></p>
+</div>
+
 Mye handler om profitt. Slaver er billigere enn råmaterialene de er satt til å utvinne.  Det koster i gjennomsnitt  [90 dollar](http://www.freetheslaves.net/Document.Doc?id=37), eller omtrent 500 kroner for en slave i dag.  Menneskehandel er blitt en så stor industri at det ikke lenger er verdt å investere i slavene. Dersom en slave blir syk eller gjør opprør, [er det billigere å drepe eller la personen dø](https://www.freetheslaves.net/SSLPage.aspx?pid=301), og deretter kjøpe en ny. På samme måte som vi [bruker og kaster klær fra Hennes og Mauritz](http://www.vg.no/nyheter/utenriks/artikkel.php?artid=10055241), brukes og kastes mennesker.
 
 Som forbrukere har vi makt. [Makt](http://slaveryfootprint.org/about/#getapp) til å stille krav til bedrifter og politikere. Verden kan eksistere uten slaveri. Til tross for at slaveri er svært utbredt i veldig mange industrier, er det også mange aktører innen alle disse industriene som ikke driver med moderne slaveri. 
