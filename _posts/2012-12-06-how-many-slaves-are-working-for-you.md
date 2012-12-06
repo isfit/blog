@@ -2,7 +2,7 @@
 layout: post
 style: global-trade
 title : How many slaves are working for you?
-ingress:
+ingress: It's a completely ordinary day. I rise from my bed and its soft, comfortable bedding—one slave. I take a shower and wash up with soap and shampoo—two slaves. I put on some lotion, do my makeup and put on some perfume—three slaves. It is cold outside. I dress up in clothes made from both wool and cotton—four slaves. I eat breakfast and have a cup of coffee—five slaves.  
 header : Post Archive
 comments: true
 authors: [kajajuul]
@@ -10,8 +10,6 @@ lang: en
 alt: hvor-mange-slaver-jobber-for-deg
 p: how-many-slaves-are-working-for-you
 ---
-
-It's a completely ordinary day. I rise from my bed and its soft, comfortable bedding—one slave. I take a shower and wash up with soap and shampoo—two slaves. I put on some lotion, do my makeup and put on some perfume—three slaves. It is cold outside. I dress up in clothes made from both wool and cotton—four slaves. I eat breakfast and have a cup of coffee—five slaves.  
 
 I could have gone on like this for ages. The number would finally add up to **32**. Thirty two slaves work for me.  Even before exiting my own house in the morning I have used, worn or consumed products worth the work of five slaves. In order to live my life using the products I want to and with the level of comfort I like, there are 32 humans worldwide working literally for their life.   
 
