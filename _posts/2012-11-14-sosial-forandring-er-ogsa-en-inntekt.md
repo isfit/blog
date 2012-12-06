@@ -8,6 +8,7 @@ comments: true
 authors: [jonators]
 lang: 'no'
 alt: social-development-is-also-currency
+n: hvor-mange-slaver-jobber-for-deg
 p: fairtrade-verdt-pengene
 ---
 

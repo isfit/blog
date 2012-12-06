@@ -29,6 +29,13 @@
 
   <body>
 
+    <div id="localization">
+    {% if page.lang == 'no' %}
+    <a href="../{{ page.alt }}">English</a>
+    {% else %}
+    <a href="../{{ page.alt }}">Norsk</a>
+    {% endif %}
+  </div>
     <!--
     <div class="navbar">
       <div class="navbar-inner">

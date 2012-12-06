@@ -1,6 +1,5 @@
 ---
-layout: post
-style: global-trade
+layout: slaves
 title : Hvor mange slaver jobber for deg?
 ingress: Det er en helt vanlig dag. Jeg står opp av sengen dekket av mykt og deilig sengetøy—én slave. Jeg tar en dusj og vasker meg med sjampo og såpe—to slaver. Jeg smører meg med fuktighetskrem, sminker meg og tar på parfyme—tre slaver. Det er kaldt ute. Jeg kler på meg godt med klær av både ull og bomull—fire slaver. Jeg spiser frokost og drikker en kopp kaffe—fem slaver.  
 header : Post Archive
@@ -8,7 +7,7 @@ comments: true
 authors: [kajajuul]
 lang: 'no'
 alt: how-many-slaves-are-working-for-you
-p: hvor-mange-slaver-jobber-for-deg
+p: sosial-forandring-er-ogsa-en-inntekt
 ---
 
 Jeg kunne fortsatt slik lenge. Tallet ville blitt **32**. Trettito slaver jobber for meg. Allerede før jeg går ut døren om morgenen har jeg brukt, tatt på meg eller konsumert produkter som krever fem slavers arbeid. For at jeg skal kunne leve det livet jeg lever, med de produktene jeg ønsker og med den komfort jeg liker, er det 32 mennesker spredt over hele verden som bokstavelig talt jobber for livet. 

@@ -1,0 +1,62 @@
+@import url(http://fonts.googleapis.com/css?family=Margarine);
+
+div.title h1 {
+	line-height: 1em;
+	margin: 0;
+	color: black;
+
+	font-family: 'Margarine' "Comic Sans MS";
+	font-size: 3em;
+}
+
+
+div.page-header {
+	background: url(img/illustrasjon.png);
+	background-size: 100%;
+	height: 510px;
+	width: 780px;
+
+	border: none;
+
+	margin:auto;
+}
+
+.container, .span12 {
+	max-width: 980px;
+}
+
+.content {
+	border: none;
+	/*background: url(img/artikkel_bg.png);*/
+	background: #D8D8D8;
+	padding-top: 3em;
+}
+
+article.post-body {
+	margin-top: 3em;
+	padding: 0 14em;
+}
+
+article.post-body p {
+	font-size: 1.2em;
+	line-height: 1.5em;
+	margin: 1em 0;
+	color: #656565;
+}
+
+.ingress {
+	font-weight: bold;
+}
+
+#content-wrapper {
+	/*background: url(img/monster.png);
+	background-size: 10%;*/
+
+	background: #BFB69C
+}
+
+a:hover {
+	color: white;
+	text-decoration: none;
+	background: #0088cc;
+}
