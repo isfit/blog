@@ -49,10 +49,10 @@ article.post-body p {
 }
 
 #content-wrapper {
-	/*background: url(img/monster.png);
-	background-size: 10%;*/
+	background: url(img/monster.png);
+/*	background-size: 10%;
 
-	background: #BFB69C
+	background: #BFB69C*/
 }
 
 a:hover {

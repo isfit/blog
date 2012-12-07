@@ -1,11 +1,22 @@
 ---
 layout: page
 title: Theme blog
+lang: en
+alt: 'no.html'
 ---
 {% include JB/setup %}
 
 <nav>
   <ul>
+    <li>
+      <a href="2012/how-many-slaves-are-working-for-you/">
+        <article>
+          <img height="220" width="220" src="assets/thumbs/slaves.jpg" alt="">
+          <p>Kaja Juul Skarbø</p>
+          <h1>How many slaves are working for you?</h1>
+        </article>
+      </a>
+    </li>
     <li>
       <a href="2012/social-development-is-also-currency/">
         <article>

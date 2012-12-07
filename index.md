@@ -1,11 +1,22 @@
 ---
 layout: page
 title: Temablogg
+lang: 'no'
+alt: 'en.html'
 ---
 {% include JB/setup %}
 
 <nav>
   <ul>
+    <li>
+      <a href="2012/hvor-mange-slaver-jobber-for-deg/">
+        <article>
+          <img height="220" width="220" src="assets/thumbs/slaves.jpg" alt="">
+          <p>Kaja Juul Skarbø</p>
+          <h1>Hvor mange slaver jobber for deg?</h1>
+        </article>
+      </a>
+    </li>
     <li>
       <a href="2012/sosial-forandring-er-ogsa-en-inntekt/">
         <article>
