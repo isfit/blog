@@ -60,3 +60,30 @@ a:hover {
 	text-decoration: none;
 	background: #0088cc;
 }
+
+div.faktaboks {
+	border-radius: 5px;
+	background: #E7E7E7;
+	padding: 1em;
+	margin: 1em -5em 1em 2em;
+	float: right;
+	width: 250px;
+	box-shadow: inset 0 0 5px #aaa;
+	border: 1px solid #aaa;
+}
+
+div.faktaboks p {
+	font-size: 1em;
+	font-style: italic;
+}
+
+div.faktaboks p:last-of-type {
+	text-align: right;
+	font-style: normal;
+}
+
+div.faktaboks h1 {
+	font-size: 1.2em;
+	margin-bottom: 0;
+	line-height: 1.2em;
+}
