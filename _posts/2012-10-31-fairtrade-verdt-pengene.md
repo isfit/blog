@@ -7,7 +7,7 @@ ingress:
 header : Post Archive
 comments: true
 authors: [alexanly, saramam]
-lang: no
+lang: 'no'
 p: den-europeiske-drommen
 n: sosial-forandring-er-ogsa-en-inntekt
 ---
