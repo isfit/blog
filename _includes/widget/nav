@@ -1,11 +1,11 @@
  <div class="nav">
  	<div class="prev">
  	{% if page.p%}
- 	<a href="/{{page.p}}">Previous post</a>
+ 	<a href="/blog/{{page.p}}">Previous post</a>
  	{% endif %}
  	</div><div class="next">
  	{% if page.n%}
- 	<a href="/{{page.n}}">Next post</a>
+ 	<a href="/blog/{{page.n}}">Next post</a>
  	{% endif %}
  	</div>
 </div>
