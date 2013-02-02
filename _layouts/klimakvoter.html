@@ -7,6 +7,7 @@ style: klimakvoter
 <div class="page-header">
   <div class="title">
       <h1 class="post-title">{{ page.title }}</h1>
+      <h2 class="post-subtitle">{{ page.subtitle }}</h2>
   </div>
 </div>
 
@@ -17,7 +18,10 @@ style: klimakvoter
       <p>{{ page.ingress }}</p>
       </section>
 
-      {{ content }}
+      <section class="post-main">
+        {{ content }}
+      </section>
+
 
     <p style="text-align: right;"><em>{{ page.date | date_to_long_string }}</em></p>
     </article>

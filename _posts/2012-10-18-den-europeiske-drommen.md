@@ -8,8 +8,8 @@ header : Post Archive
 comments: true
 authors: [stolsbot]
 lang: no
-p: norge-fredsnasjon-og-vaapeneksportoer
-n: fairtrade-verdt-pengene
+p: 2012/norge-fredsnasjon-og-vaapeneksportoer
+n: 2012/fairtrade-verdt-pengene
 ---
 
 Europa vakler. Fire år etter finanskrisen er den europeiske økonomien fremdeles i elendig stand. Statsgjelden har skutt i været, budsjettunderskuddene er gigantiske og arbeidsledigheten i eurosonen er på over elleve prosent. Den sosiale nøden er påtrengende og det er ingen tegn til bedre tider. Kort sagt: fremtiden ser bekmørk ut.

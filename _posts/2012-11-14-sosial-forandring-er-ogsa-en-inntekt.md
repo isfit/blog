@@ -8,8 +8,8 @@ comments: true
 authors: [jonators]
 lang: 'no'
 alt: social-development-is-also-currency
-n: hvor-mange-slaver-jobber-for-deg
-p: fairtrade-verdt-pengene
+n: 2012/hvor-mange-slaver-jobber-for-deg
+p: 2012/fairtrade-verdt-pengene
 ---
 
 Toms Shoes har per 2012 [delt ut over én million skopar i 25 ulike land](http://abcnews.go.com/International/PersonOfWeek/person-week-toms-shoes-founder-blake-mycoskie/story?id=13331473#.UJmqCml9Hu9). Likevel er kanskje sosialt entreprenørskap best kjent gjennom Nobels fredsprisvinner Mohammed Yunus, grunnleggeren av Grameen bank og utvikler av teorien bak mikrofinans. 
