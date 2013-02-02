@@ -9,6 +9,15 @@ alt: 'no.html'
 <nav>
   <ul>
     <li>
+      <a href="2013/carbon-emission-schemes/">
+        <article>
+          <img height="220" width="220" src="assets/thumbs/klimakvoter.jpg" alt="">
+          <p>Eline Hansen Næset</p>
+          <h1>Carbon emission schemes – Trading away responsibility?</h1>
+        </article>
+      </a>
+    </li>
+    <li>
       <a href="2012/how-many-slaves-are-working-for-you/">
         <article>
           <img height="220" width="220" src="assets/thumbs/slaves.jpg" alt="">

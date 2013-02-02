@@ -9,6 +9,15 @@ alt: 'en.html'
 <nav>
   <ul>
     <li>
+      <a href="2013/klimakvoter-salg-av-ansvar/">
+        <article>
+          <img height="220" width="220" src="assets/thumbs/klimakvoter.jpg" alt="">
+          <p>Eline Hansen Næset</p>
+          <h1>Klimakvoter – Salg av ansvar?</h1>
+        </article>
+      </a>
+    </li>
+    <li>
       <a href="2012/hvor-mange-slaver-jobber-for-deg/">
         <article>
           <img height="220" width="220" src="assets/thumbs/slaves.jpg" alt="">
