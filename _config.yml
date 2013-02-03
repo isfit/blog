@@ -3,7 +3,7 @@
 permalink: /:year/:title 
 
 exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md"]
-auto: true
+auto: false
 pygments: true
 
 # Themes are encouraged to use these universal variables 
@@ -58,6 +58,11 @@ authors :
     name : Eline Hansen Næset
     email : elinehan
     image : https://internal.isfit.org/system/2db57673b4f5656ae4102d21d1f9eda98ab9b441.JPG?1353150677
+  arstol : 
+    name : Erland Årstøl
+    twitter: ErlandArstol
+    email : arstol
+    image : https://si0.twimg.com/profile_images/2205300557/Erland___rst__l_LELz_bigger.jpg
   trondkbr :
     name : Trond Kjetil Bremnes
     email : trondkbr

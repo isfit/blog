@@ -1,0 +1,52 @@
+#content-wrapper {
+  background: url(http://i.imgur.com/HREfJFy.jpg);
+}
+
+
+.page-header {
+  display: inline-block;
+  height: 350px;
+  width: 400px;
+  float: left;
+  padding: 0;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+
+  background: url(img/amazon.png);
+
+  position: relative;
+
+  margin: 0;
+  margin-right: 20px;
+  margin-bottom: 20px;
+
+  .title {
+    position: absolute;
+    top: 6em;
+    left: 7em;
+
+    h1 {
+      font-size: 6em;
+    }
+  }
+}
+
+.ingress {
+  max-width: 600px;
+  margin: auto;
+  margin-bottom: 3em;
+  p {
+    font-style: italic;
+    font-size: 1.2em;
+    line-height: 1.5em;
+  }
+}
+
+.post-main {
+  max-width: 600px;
+  margin: auto;
+  p {
+    font-size: 1.2em;
+    line-height: 1.5em;
+  }
+}
