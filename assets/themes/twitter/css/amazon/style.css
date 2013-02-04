@@ -1,19 +1,39 @@
 #content-wrapper {
-  background: url(http://i.imgur.com/HREfJFy.jpg); }
+  background: url(http://i.imgur.com/HREfJFy.jpg);
+  padding-top: 480px;
+  overflow: hidden;
+  position: relative;
+  z-index: 2; }
+
+.background {
+  min-height: 430px;
+  min-width: 1198px;
+  width: 100%;
+  position: absolute;
+  top: 0;
+  left: 0;
+  z-index: -1;
+  box-shadow: 0 0 8px #555; }
+
+.content {
+  padding-top: 40px;
+  border-radius: 7px; }
 
 .page-header {
   display: inline-block;
   height: 350px;
   width: 400px;
-  float: left;
+  float: right;
   padding: 0;
   border: 1px solid #ccc;
   border-radius: 5px;
+  box-shadow: 0 0 5px #333;
   background: url(img/amazon.png);
   position: relative;
   margin: 0;
-  margin-right: 20px;
-  margin-bottom: 20px; }
+  margin-left: 20px;
+  margin-bottom: 20px;
+  margin-top: -150px; }
   .page-header .title {
     position: absolute;
     top: 6em;
@@ -36,3 +56,11 @@
   .post-main p {
     font-size: 1.2em;
     line-height: 1.5em; }
+
+.attribution {
+  max-width: 600px;
+  margin: auto;
+  background: white;
+  border-radius: 7px;
+  box-shadow: 0 0 5px #ccc;
+  padding: 1em; }
