@@ -7,7 +7,7 @@ header : Post Archive
 comments: true
 authors: [arstol]
 lang: 'en'
-alt: amazons-slaver
+alt: slaver-av-amazon
 p: 2013/klimakvoter-salg-av-ansvar
 ---
 

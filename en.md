@@ -9,6 +9,15 @@ alt: 'no.html'
 <nav>
   <ul>
     <li>
+      <a href="2013/slaver-av-amazon/">
+        <article>
+          <img height="220" width="220" src="assets/thumbs/amazon.jpg" alt="">
+          <p>Erland Årstøl</p>
+          <h1>Slaves of Amazon</h1>
+        </article>
+      </a>
+    </li>
+    <li>
       <a href="2013/carbon-emission-schemes/">
         <article>
           <img height="220" width="220" src="assets/thumbs/klimakvoter.jpg" alt="">
