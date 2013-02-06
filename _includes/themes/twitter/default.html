@@ -44,11 +44,7 @@
     </div>
   -->
   <div id="localization">
-    {% if page.lang == 'no' %}
-    <a href="../{{ page.alt }}">English</a>
-    {% else %}
-    <a href="../{{ page.alt }}">Norsk</a>
-    {% endif %}
+    {% include widget/alt %}
   </div>
 
   <div id="content-wrapper">
