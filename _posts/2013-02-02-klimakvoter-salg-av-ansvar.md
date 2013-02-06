@@ -7,9 +7,6 @@ header : Post Archive
 comments: true
 authors: [elinehan]
 lang: 'no'
-alt: carbon-emission-schemes
-p: 2012/hvor-mange-slaver-jobber-for-deg
-n: 2013/slaver-av-amazon
 ---
 
 [Kvotehandelsystemet](http://www.regjeringen.no/nb/dep/md/tema/klima/sporsmal-om-klimaendringene.html?id=449643) er en del av Kyotoprotokollen, som de fleste land i verden har ratifisert. I avtalen har man fastsatt hvor mye CO2 hvert land kan slippe ut over en viss periode for å oppnå ønskede kutt, og kvotene fordeles basert på dette. Innad i landene bestemmer man i hvilke sektorer utslippene skal kuttes, og store bedrifter innen disse sektorene får utdelt kvoter. Også organisasjoner og enkeltpersoner kan handle med klimakvoter, dersom de vil forbedre sitt eget økologiske fotavtrykk. Handelen kan foregå direkte mellom aktører, eller via meglere og banker.

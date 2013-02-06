@@ -8,8 +8,6 @@ header : Post Archive
 comments: true
 authors: [alexanly, saramam]
 lang: 'no'
-p: 2012/den-europeiske-drommen
-n: 2012/sosial-forandring-er-ogsa-en-inntekt
 ---
 
 <section class="ingress">

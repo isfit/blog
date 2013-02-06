@@ -6,9 +6,6 @@ header : Post Archive
 comments: true
 authors: [kajajuul]
 lang: en
-alt: hvor-mange-slaver-jobber-for-deg
-p: 2012/social-development-is-also-currency
-n: 2013/carbon-emission-schemes
 ---
 
 I could have gone on like this for ages. The number would finally add up to **32**. Thirty two slaves work for me.  Even before exiting my own house in the morning I have used, worn or consumed products worth the work of five slaves. In order to live my life using the products I want to and with the level of comfort I like, there are 32 humans worldwide working literally for their life.   

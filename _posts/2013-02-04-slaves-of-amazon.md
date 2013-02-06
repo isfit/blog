@@ -7,8 +7,6 @@ header : Post Archive
 comments: true
 authors: [arstol]
 lang: 'en'
-alt: slaver-av-amazon
-p: 2013/klimakvoter-salg-av-ansvar
 ---
 
 – I never felt like passing out before, and I never felt treated like a piece of crap in any other warehouse but this one. They can do that because there aren't any other jobs in the area, says former warehouse worker Elmer Goris to the American newspaper [The Morning Call](http://articles.mcall.com/2011-09-18/news/mc-allentown-amazon-complaints-20110917_1_warehouse-workers-heat-stress-brutal-heat)

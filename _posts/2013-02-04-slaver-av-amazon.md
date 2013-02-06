@@ -7,8 +7,6 @@ header : Post Archive
 comments: true
 authors: [arstol]
 lang: 'no'
-alt: slaves-of-amazon
-p: 2013/klimakvoter-salg-av-ansvar
 ---
 
 – Dette er det eneste lageret jeg har holdt på å svime av i, og det eneste hvor jeg har blitt behandlet som en dritt. De kan drive på slik fordi det ikke finnes andre jobber i området, sier lagerarbeideren Elmer Goris til den amerikanske avisen [The Morning Call](http://articles.mcall.com/2011-09-18/news/mc-allentown-amazon-complaints-20110917_1_warehouse-workers-heat-stress-brutal-heat).

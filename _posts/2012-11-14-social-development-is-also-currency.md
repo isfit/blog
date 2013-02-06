@@ -7,9 +7,6 @@ header : Post Archive
 comments: true
 authors: [jonators]
 lang: en
-alt: sosial-forandring-er-ogsa-en-inntekt
-p: 2012/fairtrade-worth-what-you-pay
-n: 2012/how-many-slaves-are-working-for-you
 ---
 
 Toms Shoes have by 2012 handed out over [one million pair of shoes in 25 countries](http://abcnews.go.com/International/PersonOfWeek/person-week-toms-shoes-founder-blake-mycoskie/story?id=13331473#.UJmqCml9Hu9). However, social entrepreneurship is probably best known through Nobel Peace Prize winner Mohammmed Yunus, the founder of Grameen Bank and developer of the concepts of microfinance.

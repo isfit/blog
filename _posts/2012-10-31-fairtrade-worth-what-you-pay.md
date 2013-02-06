@@ -8,8 +8,6 @@ header : Post Archive
 comments: true
 authors: [alexanly, saramam]
 lang: en
-p: 2012/the-european-dream
-n: 2012/social-development-is-also-currency
 ---
 
 

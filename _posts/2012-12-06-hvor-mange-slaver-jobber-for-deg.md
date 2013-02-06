@@ -6,9 +6,6 @@ header : Post Archive
 comments: true
 authors: [kajajuul]
 lang: 'no'
-alt: how-many-slaves-are-working-for-you
-p: 2012/sosial-forandring-er-ogsa-en-inntekt
-n: 2013/klimakvoter-salg-av-ansvar
 ---
 
 Jeg kunne fortsatt slik lenge. Tallet ville blitt **32**. Trettito slaver jobber for meg. Allerede før jeg går ut døren om morgenen har jeg brukt, tatt på meg eller konsumert produkter som krever fem slavers arbeid. For at jeg skal kunne leve det livet jeg lever, med de produktene jeg ønsker og med den komfort jeg liker, er det 32 mennesker spredt over hele verden som bokstavelig talt jobber for livet. 

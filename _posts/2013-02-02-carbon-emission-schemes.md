@@ -7,9 +7,6 @@ header : Post Archive
 comments: true
 authors: [elinehan]
 lang: 'en'
-alt: klimakvoter-salg-av-ansvar
-p: 2012/how-many-slaves-are-working-for-you
-n: 2013/slaves-of-amazon
 ---
 
 [The emission trading scheme](http://www.regjeringen.no/nb/dep/md/tema/klima/sporsmal-om-klimaendringene.html?id=449643) is a part of the Kyoto protocol, which has been ratified by most countries in the world. Quotas are distributed based on how much carbon each country can emit during a certain period and still achieve the cuts that are needed, which is decided in the protocol. Countries decide in which industrial sectors the cuts shall be made, and then large companies in those sectors are given quotas. Organizations and individuals may buy carbon quotas too, if they want to improve their own ecological footprint. The trade happens directly between actors, or via banks and brokers.

@@ -7,7 +7,6 @@ header : Post Archive
 comments: true
 authors: [eliseell]
 lang: en
-n: 2012/norway-a-nation-of-peace-and-of-weapons-export
 ---
 
 

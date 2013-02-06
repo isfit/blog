@@ -8,8 +8,6 @@ header : Post Archive
 comments: true
 authors: [stolsbot]
 lang: en
-p: 2012/norway-a-nation-of-peace-and-of-weapons-export
-n: 2012/fairtrade-worth-what-you-pay
 ---
 
 Europe is wavering. Four years after the financial crisis, the European economy is still in a terrible condition. Public debt has skyrocketed, budget deficits are gigantic and the unemployment rate in the euro zone is over eleven per cent. The social need is urgent and there is no sign of better times. In short, the future looks gloomy.
