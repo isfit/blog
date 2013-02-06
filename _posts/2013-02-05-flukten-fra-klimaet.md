@@ -6,9 +6,7 @@ ingress: "Vil du ha den filmen? Klikk. Eller hva med de skoene? Klikk. Netthande
 header : Post Archive
 comments: true
 authors: [arstol]
-lang: 'no'
-alt: slaves-of-amazon
-published: true
+published: false
 ---
 
 test
