@@ -7,7 +7,7 @@ ingress:
 header : Post Archive
 comments: true
 authors: [stolsbot]
-lang: no
+lang: 'no'
 p: 2012/norge-fredsnasjon-og-vaapeneksportoer
 n: 2012/fairtrade-verdt-pengene
 ---
