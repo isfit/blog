@@ -2,9 +2,10 @@
 layout: page
 title: Theme blog
 lang: en
-alt: 'no.html'
+alt: ''
 ---
 {% include JB/setup %}
+{% include widget/postlist %}
 
 <nav>
   <ul>

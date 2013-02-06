@@ -1,0 +1,22 @@
+<nav>
+  <ul>
+{% for post in site.posts %}
+  {% if post.lang == page.lang %}
+<li>
+  
+  <article class="post">
+    <h1>{{ post.title }}</h1>
+
+    <p>av</p>
+    {% for author in post.authors %}
+    <p class="author">{{ site.authors[author].name }}</p>
+    {% endfor %}
+  </article>
+
+</li>
+  {% endif %}
+{% endfor %}
+</ul>
+</nav>
+
+<hr>

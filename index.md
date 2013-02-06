@@ -5,6 +5,7 @@ lang: 'no'
 alt: 'en.html'
 ---
 {% include JB/setup %}
+{% include widget/postlist %}
 
 <nav>
   <ul>

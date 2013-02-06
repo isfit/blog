@@ -8,8 +8,7 @@ comments: true
 authors: [arstol]
 lang: 'no'
 alt: slaves-of-amazon
-p: 2013/klimakvoter-salg-av-ansvar
-published: false
+published: true
 ---
 
 test
