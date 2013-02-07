@@ -7,14 +7,8 @@ comments: true
 authors: [annadu]
 lang: 'en'
 published: false
+new: true
 ---
-
-
-
-
-Is your culture being colonized? 
-
-Have a look inside your fridge: Norwegian meat, Italian ice cream, fruit and vegetables from Africa. You “taste” the world without leaving your own kitchen.
 
 The lifestyles of many people in different corners of the world are becoming increasingly similar. The contemporary world economy is characterized by the globalization of production and trade. Distribution of the same kinds of products all across the globe has a great impact on global culture. We can all watch American movies, drive German cars and drink Brazilian coffee, no matter where we live. People in different countries are surrounded by the same brands. This promotes similar consumer preferences, similar fashion trends and often a similar cultural outlook. 
 
