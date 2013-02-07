@@ -1,12 +1,12 @@
 ---
-layout: default
+layout: prawn
 title: Koloniseres kulturen din? 
 ingress: 'Ta en kikk i kjøleskapet ditt: Norsk kjøtt, italiensk iskrem, frukt og grønnsaker fra Afrika. Du “smaker” verden uten å forlate ditt eget kjøkken.'
 header : Post Archive
 comments: true
 authors: [annadu]
 lang: 'no'
-published: false
+published: true
 new: true
 ---
 

@@ -5,14 +5,17 @@
   {% if post.new %}
 <li>
   
-  <article class="post">
-    <h1>{{ post.title }}</h1>
+  <a href="{{post.url}}">
+    <article class="post">
+      <p>{{ post.date | date: "%d %b" }}</p>
+      <h1>{{ post.title }}</h1>
 
-    <p>av</p>
-    {% for author in post.authors %}
-    <p class="author">{{ site.authors[author].name }}</p>
-    {% endfor %}
-  </article>
+      <p>av 
+      {% for author in post.authors %}
+        {{ site.authors[author].name }}</p>
+      {% endfor %}
+    </article>
+  </a>
 
 </li>
   {% endif %}

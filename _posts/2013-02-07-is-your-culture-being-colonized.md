@@ -1,12 +1,12 @@
 ---
-layout: default
+layout: prawn
 title: Is your culture being colonized? 
 ingress: 'Have a look inside your fridge: Norwegian meat, Italian ice cream, fruit and vegetables from Africa. You “taste” the world without leaving your own kitchen.'
 header : Post Archive
 comments: true
 authors: [annadu]
 lang: 'en'
-published: false
+published: true
 new: true
 ---
 

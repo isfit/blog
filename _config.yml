@@ -58,21 +58,18 @@ authors :
     name : Eline Hansen Næset
     email : elinehan
     image : https://internal.isfit.org/system/2db57673b4f5656ae4102d21d1f9eda98ab9b441.JPG?1353150677
+    position : Theme Writer - Theme Project
   arstol : 
     name : Erland Årstøl
     twitter: ErlandArstol
     email : arstol
     image : https://si0.twimg.com/profile_images/2205300557/Erland___rst__l_LELz_bigger.jpg
+    position : Theme Writer - Theme Project
   annadu : 
     name : Anna Dunaeva
     email : annadu
     image : https://internal.isfit.org/system/81ecb76e99cac51dac7038335e03f9e91f4e4432.jpg?1359922069
-  trondkbr :
-    name : Trond Kjetil Bremnes
-    email : trondkbr
-    twitter : kartoffelmos
-    position : midlertidig
-    gravatar : qwerty
+    position : Theme Writer - Theme Project
 
 # The production_url is only used when full-domain names are needed
 # such as sitemap.txt 
