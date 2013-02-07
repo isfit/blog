@@ -1,3 +1,5 @@
+{% if false %}
+
 <nav>
   <ul>
 {% for post in site.posts %}
@@ -20,3 +22,5 @@
 </nav>
 
 <hr>
+
+{% endif %}
