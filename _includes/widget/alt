@@ -1,3 +1,11 @@
+{% if page.frontpage %}
+  {% if page.lang == 'no' %}
+    <a href="en.html">English</a>
+  {% else %}
+    <a href="/">Norsk</a>
+  {% endif %}
+{% else %}
+
 {% if page.previous.date == page.date %}
   {% if page.lang == 'no' %}
     <a href="{{ page.previous.url }}">English</a>
@@ -10,4 +18,6 @@
   {% else %}
     <a href="{{ page.next.url }}">Norsk</a>
   {% endif %}
+{% endif %}
+
 {% endif %}

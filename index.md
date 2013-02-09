@@ -3,6 +3,7 @@ layout: page
 title: Temablogg
 lang: 'no'
 alt: 'en.html'
+frontpage: true
 ---
 {% include JB/setup %}
 {% include widget/postlist %}

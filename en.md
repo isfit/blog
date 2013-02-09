@@ -3,6 +3,7 @@ layout: page
 title: Theme blog
 lang: en
 alt: ''
+frontpage: true
 ---
 {% include JB/setup %}
 {% include widget/postlist %}
