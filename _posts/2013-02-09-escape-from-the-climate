@@ -4,10 +4,11 @@ title: The Escape from Climate
 ingress:
 header: post archive
 comments: true
-authors: [arstol]
+authors: [chargarm]
 lang: en
 alt: flukten-fra-klimaet
-p:
+published: true
+new: true
 ---
 
 <section class="ingress">
