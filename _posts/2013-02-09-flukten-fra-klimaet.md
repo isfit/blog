@@ -1,7 +1,6 @@
 ---
 layout: prawn
 title: Flukten fra klimaet
-ingress: 
 header: post archive
 comments: true
 authors: [chargarm]

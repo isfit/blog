@@ -1,7 +1,6 @@
 ---
 layout: prawn
 title: The Escape from Climate
-ingress:
 header: post archive
 comments: true
 authors: [chargarm]
