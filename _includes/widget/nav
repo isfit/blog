@@ -3,14 +3,14 @@
  	{% if page.previous %}
     {% if page.previous.lang == page.lang %}
 
- 	    <a href="/blog{{page.previous.url}}">Previous post: {{page.previous.title}}</a>
+ 	    <a href="../..{{page.previous.url}}">Previous post: {{page.previous.title}}</a>
  	  
     {% elsif page.previous.previous %}
 
       {% if page.previous.previous.lang == page.lang %}
-        <a href="/blog{{page.previous.previous.url}}">Previous post: {{page.previous.previous.title}}</a>
+        <a href="../..{{page.previous.previous.url}}">Previous post: {{page.previous.previous.title}}</a>
       {% elsif page.previous.previous.previous %}
-        <a href="/blog{{page.previous.previous.previous.url}}">Previous post: {{page.previous.previous.previous.title}}</a>
+        <a href="../..{{page.previous.previous.previous.url}}">Previous post: {{page.previous.previous.previous.title}}</a>
       {% endif %}
 
     {% endif %}
@@ -20,14 +20,14 @@
   {% if page.next %}
     {% if page.next.lang == page.lang %}
 
-      <a href="/blog{{page.next.url}}">Next post: {{page.next.title}}</a>
+      <a href="../..{{page.next.url}}">Next post: {{page.next.title}}</a>
     
     {% elsif page.next.next %}
 
       {% if page.next.next.lang == page.lang %}
-        <a href="/blog{{page.next.next.url}}">Next post: {{page.next.next.title}}</a>
+        <a href="../..{{page.next.next.url}}">Next post: {{page.next.next.title}}</a>
       {% elsif page.next.next.next %}
-        <a href="/blog{{page.next.next.next.url}}">Next post: {{page.next.next.next.title}}</a>
+        <a href="../..{{page.next.next.next.url}}">Next post: {{page.next.next.next.title}}</a>
       {% endif %}
 
     {% endif %}

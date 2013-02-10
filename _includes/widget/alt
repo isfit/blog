@@ -8,15 +8,15 @@
 
 {% if page.previous.date == page.date %}
   {% if page.lang == 'no' %}
-    <a href="{{ page.previous.url }}">English</a>
+    <a href="../..{{ page.previous.url }}">English</a>
   {% else %}
-    <a href="{{ page.previous.url }}">Norsk</a>
+    <a href="../..{{ page.previous.url }}">Norsk</a>
   {% endif %}
 {% else %}
   {% if page.lang == 'no' %}
-    <a href="{{ page.next.url }}">English</a>
+    <a href="../..{{ page.next.url }}">English</a>
   {% else %}
-    <a href="{{ page.next.url }}">Norsk</a>
+    <a href="../..{{ page.next.url }}">Norsk</a>
   {% endif %}
 {% endif %}
 
