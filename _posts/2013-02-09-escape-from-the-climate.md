@@ -8,6 +8,7 @@ lang: 'en'
 alt: flukten-fra-klimaet
 published: true
 new: true
+date: 2013-02-09 10:00:00
 ---
 
 <section class="ingress">

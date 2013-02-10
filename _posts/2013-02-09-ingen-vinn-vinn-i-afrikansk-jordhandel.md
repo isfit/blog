@@ -8,11 +8,12 @@ lang: 'no'
 alt: no-win--win-for-african-land-trade
 published: true
 new: true
+date: 2013-02-09 17:00:00
 ---
 
 <section class="ingress">
 <p class="pre">
-Fra 2000 til 2010 ble det forhandlet om 1,3 milliarder mål jord i Afrika, et område som er større enn hele [Sør-Afrika.](http://www.bistandsaktuelt.no/nyheter-og-reportasjer/arkiv-nyheter-og-reportasjer/millioner-av-m%C3%A5l-jord-p%C3%A5-utenlandske-hender) Denne typen utenlandske investeringer kan skape arbeidsplasser og økt velstand, men skremmende ofte blir fattige bønder stående igjen som taperne i avtaler som i hovedsak tilgodeser vestlige selskaper. 
+Fra 2000 til 2010 ble det forhandlet om 1,3 milliarder mål jord i Afrika, et område som er større enn hele <a href="http://www.bistandsaktuelt.no/nyheter-og-reportasjer/arkiv-nyheter-og-reportasjer/millioner-av-m%C3%A5l-jord-p%C3%A5-utenlandske-hender">Sør-Afrika</a> Denne typen utenlandske investeringer kan skape arbeidsplasser og økt velstand, men skremmende ofte blir fattige bønder stående igjen som taperne i avtaler som i hovedsak tilgodeser vestlige selskaper. 
 </p>
 </section>
 Eierforholdene i Afrika er ofte uformelle. Jord som har blitt brukt av familier til gårdsdrift i generasjoner kan på papiret være offentlig eid. Derfor har bøndene ofte lite de skal ha sagt når jorden selges, siden den juridisk sett aldri har vært deres. 

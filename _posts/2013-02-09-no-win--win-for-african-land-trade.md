@@ -8,11 +8,12 @@ lang: en
 alt: ingen-vinn--vinn-i-afrikansk-jordbruk
 published: true
 new: true
+date: 2013-02-09 17:00:00
 ---
 
 <section class="ingress">
-<p class="pre">
-From 2000 to 2010 there have been negotiations over more than 1,2 billion square kilometres of land in Africa: an area bigger than the whole of [South Africa.](http://www.bistandsaktuelt.no/nyheter-og-reportasjer/arkiv-nyheter-og-reportasjer/millioner-av-m%C3%A5l-jord-p%C3%A5-utenlandske-hender) This kind of foreign investment can create work and increase welfare, but oftentimes poor farmers are left behind in land deals that mainly benefit western corporations.
+<p>
+From 2000 to 2010 there have been negotiations over more than 1,2 billion square kilometres of land in Africa: an area bigger than the whole of <a href="http://www.bistandsaktuelt.no/nyheter-og-reportasjer/arkiv-nyheter-og-reportasjer/millioner-av-m%C3%A5l-jord-p%C3%A5-utenlandske-hender">South Africa</a>. This kind of foreign investment can create work and increase welfare, but oftentimes poor farmers are left behind in land deals that mainly benefit western corporations.
 </p>
 </section>
 The ownership of land in Africa is often informal. Land that has been used for farming by families for generations may be legally owned by the state. Therefore the farmers often has little say in whether the land is sold, since it has never legally been theirs. 
