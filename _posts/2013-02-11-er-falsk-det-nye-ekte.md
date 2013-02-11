@@ -23,4 +23,4 @@ Forfalskning er ikke en offerløs forbrytelse. Først og fremst har det en svær
 Så neste gang du er fristet til å kjøpe et par falske Ray-Bans er det kanskje verdt å tenke på konsekvensene.
 
 
-**(http://www.vogue.co.uk/news/2012/10/10/china-to-become-second-largest-luxury-goods-market-worldwide)* 
+*(http://www.vogue.co.uk/news/2012/10/10/china-to-become-second-largest-luxury-goods-market-worldwide)* 

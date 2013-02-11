@@ -24,4 +24,5 @@ Counterfeiting is not a victimless crime. First of all, it has some very [damagi
 Finally, the trade in counterfeit goods is often monopolized by [organized crime syndicates](http://www.unodc.org/toc/en/crimes/counterfeit-goods.html). That is to say, by buying a fake Lacoste shirt, you become a link in the criminal chain as you may indirectly fund drug trafficking or human trafficking. 
 So the next time you are tempted to buy a pair of fake Ray-Bans, think about the consequences.
 
-**(http://www.vogue.co.uk/news/2012/10/10/china-to-become-second-largest-luxury-goods-market-worldwide)*
+
+*(http://www.vogue.co.uk/news/2012/10/10/china-to-become-second-largest-luxury-goods-market-worldwide)*
