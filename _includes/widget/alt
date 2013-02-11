@@ -1,8 +1,8 @@
 {% if page.frontpage %}
   {% if page.lang == 'no' %}
-    <a href="en.html">English</a>
+    <a href="http://isfit.github.com/blog/en.html">English</a>
   {% else %}
-    <a href=".">Norsk</a>
+    <a href="http://isfit.github.com/blog/">Norsk</a>
   {% endif %}
 {% else %}
 
