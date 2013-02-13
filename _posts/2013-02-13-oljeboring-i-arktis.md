@@ -9,7 +9,7 @@ published: true
 new: true
 ---
 
-**Det finnes store mengder olje og gass i Arktis. Mer enn 5 prosent av verdens kjente oljeressurser ligger i området, og opptil [25 prosent av verdens gass.](http://naturvernforbundet.no/olje-og-gass-i-arktis/category2650.html) Det kan være en enorm mulighet for Norge, som har både geografiske og tekniske forutsetninger for å drive utvinning i området. Men er det noe vi bør ta oss i bruk av?**
+**Det finnes store mengder olje og gass i Arktis. Mer enn 5 prosent av verdens kjente oljeressurser ligger i området, og opptil [25 prosent av verdens gass](http://naturvernforbundet.no/olje-og-gass-i-arktis/category2650.html). Det kan være en enorm mulighet for Norge, som har både geografiske og tekniske forutsetninger for å drive utvinning i området. Men er det noe vi bør ta oss i bruk av?**
 
 ###Komplisert utvinning
 Det er ingen tvil om at det er risikofylt å drive utvinning av olje og gass i Arktis. Havgrunnen er kald, noe som vanskeliggjør boring. Både sement og stål, som er vanlige å bruke under selve boringen, blir porøse ved lave temperaturer. Risikoen for uhell forbundet med selve oljeutvinningen vil dermed være større.  [Teknisk Ukeblad](http://www.tu.no/olje-gass/2011/04/27/store-utfordringer-venter-i-arktis) beskriver det ganske enkelt: 

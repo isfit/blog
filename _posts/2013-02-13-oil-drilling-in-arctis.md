@@ -9,7 +9,7 @@ published: true
 new: true
 ---
 
-**There are large amounts of oil and gas in the Arctic Ocean. More than 5 percent of the world’s known oil resources are located there, in addition to about 25 percent of the world’s [natural gas.](http://naturvernforbundet.no/olje-og-gass-i-arktis/category2650.html) There is an enormous opportunity for Norway here; we have both the geographic and technical prerequisites needed to extract resources from the area. But should we?**
+**There are large amounts of oil and gas in the Arctic Ocean. More than 5 percent of the world’s known oil resources are located there, in addition to about 25 percent of the world’s [natural gas](http://naturvernforbundet.no/olje-og-gass-i-arktis/category2650.html). There is an enormous opportunity for Norway here; we have both the geographic and technical prerequisites needed to extract resources from the area. But should we?**
 
 
 ###Complicated extraction
