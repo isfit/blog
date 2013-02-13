@@ -13,16 +13,20 @@ new: true
 
 ###Komplisert utvinning
 Det er ingen tvil om at det er risikofylt å drive utvinning av olje og gass i Arktis. Havgrunnen er kald, noe som vanskeliggjør boring. Både sement og stål, som er vanlige å bruke under selve boringen, blir porøse ved lave temperaturer. Risikoen for uhell forbundet med selve oljeutvinningen vil dermed være større.  [Teknisk Ukeblad](http://www.tu.no/olje-gass/2011/04/27/store-utfordringer-venter-i-arktis) beskriver det ganske enkelt: 
-«I et område som veksler mellom tussmørke og bekmørke, har isfjell, ekstrem kulde og en liten befolkningstetthet, kan det være svært krevende å drive petroleumsproduksjon.»
+*«I et område som veksler mellom tussmørke og bekmørke, har isfjell, ekstrem kulde og en liten befolkningstetthet, kan det være svært krevende å drive petroleumsproduksjon.»*
+
+
 Selve utvinningen av olje er komplisert i Arktis, men det største problemet er likevel skadeomfanget hvis ulykken først skulle være ute. Eventuelle oljeplattformer vil ligge langt ute i havet, noe som gjør det vanskelig å komme i gang med opprydningsarbeidet raskt. Mens man kan bruke ny teknologi for å redusere risikoen for ulykker, er det lite man kan gjøre for å gjøre oppryddingen lettere i disse områdene. Den totale risikoen vil derfor alltid være større enn ved oljeboring i Nordsjøen.
 
 
 ![bilde](http://i.imgur.com/piFRXR6.jpg)
 
 
-*An oil spill could do serious damage 
-to the fragile ecosystems of the Arctic.
-Credit: Aninas74*
+
+*Et oljeutslipp vil kunne gjøre stor skade
+på de sårbare økosystemene i Arktis. 
+Kreditering: Aninas74*
+
 
 
 
