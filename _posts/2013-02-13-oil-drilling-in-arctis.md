@@ -11,11 +11,12 @@ new: true
 
 **There are large amounts of oil and gas in the Arctic Ocean. More than 5 percent of the world’s known oil resources are located there, in addition to about 25 percent of the world’s [natural gas.](http://naturvernforbundet.no/olje-og-gass-i-arktis/category2650.html) There is an enormous opportunity for Norway here; we have both the geographic and technical prerequisites needed to extract resources from the area. But should we?**
 
+
 ###Complicated extraction
 Extraction of oil and gas in the Arctic is a risky process. The ocean floor is cold, which makes drilling difficult. Concrete and steel, which are both used in the process, become brittle at lower temperatures. The risk will therefore be greater. The Norwegian magazine [Teknisk Ukeblad](http://www.tu.no/olje-gass/2011/04/27/store-utfordringer-venter-i-arktis) puts it simply: 
 *“An area which cycles between being dark and very dark, has icebergs, extreme cold and a low population density, can be challenging for petroleum extraction.”*
 
-  
+
 While the extraction of oil is complicated and risky in the Arctic, the biggest problem is that there's very little one can do to stop an oil spill. The ecosystems are fragile, and the platforms will be located far from the mainland. This ensures that in the event of a potential oil spill, we probably won’t be able to get there in time to stop serious damage to the environment. The total risk will therefore always be bigger in the Arctic than in the North Sea.
 
 
