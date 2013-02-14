@@ -9,7 +9,7 @@ published: true
 new: true
 ---
 
-**Det finnes store mengder olje og gass i Arktis. Mer enn 5 prosent av verdens kjente oljeressurser ligger i området, og opptil [25 prosent av verdens gass.](http://naturvernforbundet.no/olje-og-gass-i-arktis/category2650.html) Det kan være en enorm mulighet for Norge, som har både geografiske og tekniske forutsetninger for å drive utvinning i området. Men er det noe vi bør ta oss i bruk av?**
+**Det finnes store mengder olje og gass i Arktis. Mer enn 5 prosent av verdens kjente oljeressurser ligger i området, og opptil [25 prosent av verdens gass](http://naturvernforbundet.no/olje-og-gass-i-arktis/category2650.html). Det kan være en enorm mulighet for Norge, som har både geografiske og tekniske forutsetninger for å drive utvinning i området. Men er det noe vi bør ta oss i bruk av?**
 
 
 ###Komplisert utvinning
