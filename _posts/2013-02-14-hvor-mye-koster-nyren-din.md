@@ -1,6 +1,6 @@
 ---
 layout: prawn
-title: Fallitterklæring i Arktis
+title: Hvor mye koster nyren din?
 header : Post Archive
 comments: true
 authors: [annadu]

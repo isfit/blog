@@ -1,6 +1,6 @@
 ---
 layout: prawn
-title: How much would you pay for an iPad?
+title: What’s the price of your kidney?
 header : Post Archive
 comments: true
 authors: [annadu]
@@ -13,7 +13,7 @@ new: true
 
 
 In recent years, a rise in diabetes and other diseases has been [increasing the demand](http://www.telegraph.co.uk/health/healthnews/9294082/Illegal-organ-trade-on-the-rise-say-world-health-experts.html) for organ transplants. However, the organs that are officially available represent only a small fraction of the actual need. This global shortage of transplants makes organ trafficking a very lucrative business, which is illegal almost everywhere in the world. The only exception to this rule is [Iran](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC1819484/), where these kinds of sales are legal and regulated.
-Kidneys are one of the most wanted organs today, making up about [two thirds](http://www.wsws.org/en/articles/2012/07/orga-j14.html) of all transplants . According to the United Nations, around 10,000 kidneys are illegally transplanted every year, although some experts believe the number could be [twice as high](http://www.spiegel.de/international/world/the-illegal-trade-in-organ-is-fueled-by-desperation-and-growing-a-847473.html). 
+Kidneys are one of the most wanted organs today, making up about [two thirds](http://www.wsws.org/en/articles/2012/07/orga-j14.html) of all transplants. According to the United Nations, around 10,000 kidneys are illegally transplanted every year, although some experts believe the number could be [twice as high](http://www.spiegel.de/international/world/the-illegal-trade-in-organ-is-fueled-by-desperation-and-growing-a-847473.html). 
 
 
 ###A very lucrative market
@@ -39,7 +39,8 @@ The moral side of the organ trade is [debated](http://www.debate.org/opinions/sh
 
 
 *Organ trade: An impossible solution to an insuperable problem?
-Kreditering: Transmediale*
+Credits: Transmediale*
+
 
 
 
