@@ -11,6 +11,7 @@ new: true
 
 **Hvor mye korrupsjon tror du det er på din arbeidsplass? De fleste nordmenn tenker at korrupsjon er noe som skjer i andre, fattige, land. Hvis korrupsjon i det hele tatt skjer i Norge, er det hvertfall ikke der du jobber.**
 <br>
+<br>
 I Norge lever vi i en boble hvor vi tenker at korrupsjon ikke skjer her til lands. Vi scorer 90 av 100 poeng på [Transparency Internationals indeks](http://cpi.transparency.org/cpi2012/results/) over oppfattet korrupsjon, noe som i våre egne beboeres øyne vil si at vi er svært lite korrupte. Samtidig har store norske aktører som Statoil, DNB, og Bærum kommune (for å nevne noen) [alle vært dømt for korrupsjon.](http://www.ks.no/PageFiles/33709/Domssamling2012.pdf) Årlig unndras det over 130 milliarder kroner årlig bare i [skatt-, avgift- og trygdekriminalitet,](http://e24.no/naeringsliv/oekokrim-frykter-mer-korrupsjon-i-norge/20321493) og Økokrim antar at det er store mørketall. 
 <br>
 
