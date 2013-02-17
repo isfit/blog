@@ -11,7 +11,6 @@ new: true
 
 **How much corruption do you think takes place where you work? Most Norwegians think corruption is something that only happens in poor countries. If there's any corruption in Norway, it's certainly not at their workplace.**
 <br>
-<br>
 In Norway we live in a bubble where corruption doesn’t exist. We score 90 out of 100 points on [Transparency Internationals index](http://cpi.transparency.org/cpi2012/results/) over perceived corruption, which means that in our inhabitants’ eyes, there's very little corruption going on. Meanwhile, large Norwegian organizations like Statoil, DNB (The Norwegian Bank) and Bærum County (to mention just a few) have all been [found guilty of corruption.](http://www.ks.no/PageFiles/33709/Domssamling2012.pdf) Each year over 130 billion Norwegian Kroner [about 23,5 billion US dollars](http://e24.no/naeringsliv/oekokrim-frykter-mer-korrupsjon-i-norge/20321493) is lost due to cheating on taxes, fees and welfare alone. 
 <br>
 ###Not just a problem for poor countries
