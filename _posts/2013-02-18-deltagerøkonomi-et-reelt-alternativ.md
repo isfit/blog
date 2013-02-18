@@ -12,7 +12,7 @@ new: true
 **Hvordan kan vi skape en økonomi som gir rom for mangfold uten å være kapitalistisk, og som er sosial uten å innebære sosialistisk sentralstyring? Deltagerøkonomi tilbyr et alternativ basert på felles eierskap og beslutningstaking. En ugjennomførbar anarkistisk utopi, eller et faktisk alternativ til kapitalisme og nåværende former for sosialisme?**
 <br>
 <br>
-div class="pull-right" style="width: 50%; padding: 1em">
+<div class="pull-right" style="width: 50%; padding: 1em">
 <img src="http://i.imgur.com/ouw9q44.jpg"> 
 <small>David Marty, en forkjemper for deltagerøkonomi. Foto: fotogjengen.samfundet.no.</small>
 </div>
