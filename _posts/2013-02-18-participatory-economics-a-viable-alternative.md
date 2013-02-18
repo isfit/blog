@@ -11,10 +11,10 @@ new: true
 
 **How can we create an economy which gives room for diversity without being capitalist, and that is social without being centrally planned? Participatory economics offers an alternative based on common ownership and decision making. Is this an unrealistic anarchic utopia or a viable alternative to capitalism and current forms of socialism?**
 <br>
-<br>
+
 <div class="pull-right" style="width: 50%; padding: 1em">
 <img src="http://i.imgur.com/ouw9q44.jpg"> 
-<small>David Marty, fighting for participatory economics. Photo credit: fotogjengen.samfundet.no.</small>
+<small>*David Marty, fighting for participatory economics. Photo credit: fotogjengen.samfundet.no.*</small>
 </div>
 At the plenary session [“The world’s economic future”](http://www.isfit.org/articles/230), David Marty initiated his speech by stating that often it is easier to say what you are against, than what you are for. Most of us have given up on centrally planned socialist economies, even though we like the idea of equality and fairness. Also, we identify the exploitative and unequal characteristic of how capitalism works. Social democracies might be considered a middle course, but also this system has weaknesses and may not be suitable for all countries. Might [participatory economics (parecon)](http://www.youtube.com/watch?v=Pd60nYW577U) represent an alternative?
 <br>

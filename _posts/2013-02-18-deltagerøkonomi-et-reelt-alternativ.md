@@ -11,10 +11,10 @@ new: true
 
 **Hvordan kan vi skape en økonomi som gir rom for mangfold uten å være kapitalistisk, og som er sosial uten å innebære sosialistisk sentralstyring? Deltagerøkonomi tilbyr et alternativ basert på felles eierskap og beslutningstaking. En ugjennomførbar anarkistisk utopi, eller et faktisk alternativ til kapitalisme og nåværende former for sosialisme?**
 <br>
-<br>
+
 <div class="pull-right" style="width: 50%; padding: 1em">
 <img src="http://i.imgur.com/ouw9q44.jpg"> 
-<small>David Marty, en forkjemper for deltagerøkonomi. Foto: fotogjengen.samfundet.no.</small>
+<small>*David Marty, en forkjemper for deltagerøkonomi. Foto: fotogjengen.samfundet.no.*</small>
 </div>
 På møtet [“verdens økonomiske framtid”](http://www.isfit.org/articles/230), startet David Marty talen sin med å slå fast at det ofte er lettere å si hva man er mot enn hva man er for. De fleste av oss har gitt opp sentralstyrt sosialisme, selv om vi liker ideene om likhet og rettferd. Vi ser også de utnyttende og forskjellsskapende trekkene til hvordan kapitalisme fungerer. Sosialdemokratier anses gjerne som en middelvei, men også det har svakheter, og passer kanskje ikke for alle land. Kan deltagerøkonomi (også kalt parecon) [være et alternativ?](http://www.youtube.com/watch?v=Pd60nYW577U)
 <br>
