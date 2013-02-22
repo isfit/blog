@@ -22,4 +22,9 @@ But what can we do, has history not already been written for us? No, because as 
 ###High class problems
 It is easy to answer these questions by saying that you have your own issues, but as Hope Bryant said, all of us in Storsalen tonight—from  a manifold of different nations—all  of us have ”high class problems”. This is something we must rise above, and instead answer to the more pressing question, which he asked: what kind of bird do you want to be? Is it the eagle that never flies in a crowd, but still flies the highest? The crows that only make noise, but never actually do anything or the turkeys that have wings, but cannot fly with them at all? He then asked Storsalen, which of these birds do you all want to be?”, "The eagle!” was the answer coming in unison from a gathering that was truly united—united  by the hope of John Hope Bryant’s positive words, in which he encouraged each and every one of us to be the change that we want to see in the world.  
 
+<video width="560" height="315" controls>
+  <source src="http://vimeo.com/59691805" type="application/x-shockwave-flash">
+  </object> 
+</video>
+
 <object width="560" height="315"><param name="movie" value="http://vimeo.com/59691805"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://vimeo.com/59691805" type="application/x-shockwave-flash" width="560" height="315" allowscriptaccess="always" allowfullscreen="true"></embed></object>
