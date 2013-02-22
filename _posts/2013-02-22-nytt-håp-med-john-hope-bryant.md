@@ -20,7 +20,7 @@ Men hva kan vi gjøre, er ikke historien allerede lagt ut for oss? Nei, for som 
 <br>
 
 ###Overklasseproblemer
-Det er lett å svare disse spørsmålene med at man har sine egne problemer, men som Hope Bryant sa, alle i Storsalen i kveld, fra flerfoldige nasjoner, har ”overklasseproblemer”. Dette er noe vi må heve oss over og heller, som han avsluttet, prøve å bestemme oss for hvilken fugl vi vil være. Det er ørnene som aldri flyr i flokk, men likevel flyr høyest. Det er kråkene som bare lager lyder, men aldri gjør noe ut av seg. Og så er det kalkunene som har vinger men faktisk ikke kan fly med dem. Han spurte så Storsalen: ”Hvilken av disse fuglene ønsker dere å være? ” ”Ørnen!” var det unisone svaret fra en samlet forsamling, samlet av John Hope Bryants positive ord hvor han oppmuntret alle og enhver til å prøve og selv være den forandringen de ønsker å se i verden.  
+Det er lett å svare disse spørsmålene med at man har sine egne problemer, men som Hope Bryant sa, alle i Storsalen i kveld, fra flerfoldige nasjoner, har ”overklasseproblemer”. Dette er noe vi må heve oss over og heller, som han avsluttet, prøve å bestemme oss for hvilken fugl vi vil være. Det er ørnene som aldri flyr i flokk, men likevel flyr høyest. Det er kråkene som bare lager lyder, men aldri gjør noe ut av seg. Og så er det kalkunene som har vinger men faktisk ikke kan fly med dem. Han spurte så Storsalen: ”Hvilken av disse fuglene ønsker dere å være?”, ”Ørnen!” var det unisone svaret fra en samlet forsamling, samlet av John Hope Bryants positive ord hvor han oppmuntret alle og enhver til å prøve og selv være den forandringen de ønsker å se i verden.  
 
 <embed
 width="420" height="345"
